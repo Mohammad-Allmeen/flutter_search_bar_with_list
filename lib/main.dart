@@ -111,7 +111,6 @@ return Scaffold(
   ),
 );
   }
-
   // FADE ANIMATION
 //this code defines a route with a custom fade transition animation for navigating from one page to the ContactPage
   Route _createRoute(Contacts contact) { //function defination

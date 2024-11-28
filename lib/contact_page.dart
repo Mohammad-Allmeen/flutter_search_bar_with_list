@@ -8,7 +8,7 @@ class ContactPage extends StatelessWidget{
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
+
 return Scaffold(
   appBar: AppBar(
     title: Text(contact.name, style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),),
